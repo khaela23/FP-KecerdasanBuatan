@@ -1,4 +1,4 @@
-# Dokumentasi Proyek CNN untuk Klasifikasi Ikan
+# Klasifikasi Ikan
 
 ## Pendahuluan
 
